@@ -1,3 +1,10 @@
+#create a new list and store name and score
+#sort the list
+#fetch secound score using index value [1]
+#compare secoud low score and sorted list
+#if its matched add it to student list and iterate
+
+
 if __name__ == '__main__':
     s_grade=[]
     for _ in range(int(input())):
